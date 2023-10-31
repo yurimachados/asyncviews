@@ -1,6 +1,6 @@
 # Sync and Async testing
 
-Testando chamadas síncronas e assíncronas
+Este repositório é dedicado a explorar e demonstrar as diferenças entre abordagens síncronas e assíncronas na programação de APIs. Como desenvolvedor no Brasil, estou comprometido em fornecer insights valiosos e exemplos práticos para aprimorar suas habilidades no desenvolvimento de APIs tanto no ambiente de programação síncrona quanto assíncrona.
 
 ## Deploy
 
